@@ -9,3 +9,5 @@ const concat = arrayTwo.concat(["good"],["bye"])
 
 console.log(cutting);
 console.log(largestNumber);
+console.log(sum)
+console.log(concat)
